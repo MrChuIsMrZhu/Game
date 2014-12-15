@@ -1,2 +1,3 @@
-chess
+Changcheng Zhu's Chess Project
 =====
+
